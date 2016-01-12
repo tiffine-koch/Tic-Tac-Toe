@@ -46,7 +46,7 @@ button {
   }
 }
 
-.winner {
+.winner, .h1 {
   color: red;
   font-family: helvetica;
   font-style: cursive;
