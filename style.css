@@ -28,7 +28,7 @@ p {
   color: white;
   font-family: helvetica;
   font-style: italic;
-  font-size: 40px;
+  font-size: 32px;
 }
 button {
   margin: 10px;
@@ -50,5 +50,6 @@ button {
   color: red;
   font-family: helvetica;
   font-style: cursive;
-  font-size: 40px;
+  font-size: 32px;
+  margin-left: 700px;
 }
